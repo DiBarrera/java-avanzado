@@ -33,6 +33,7 @@ public interface MovieDAO extends IDBConnection {
 						);
 				
 				movie.setId(Integer.valueOf(rs.getString(TMOVIE_ID)));
+				movies.add(movie);
 			}
 			
 		} catch (SQLException e) {
