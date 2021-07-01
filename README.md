@@ -92,7 +92,6 @@ You will find the following files:
 ## Topics reviewed
 
 In this repository you will find sql files that were varied exercises to practice searching for data in databases in different ways. The topics are made up of the different ways to do these searches. Topics such as a brief history of databases, the different types of databases, services, and other fundamental topics for a better general understanding about databases were also included.
-This course was followed using MySQL Workbench.
 
 ### Topics
 
